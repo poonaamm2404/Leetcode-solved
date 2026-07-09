@@ -17,8 +17,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0035-search-insert-position) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0035-search-insert-position) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Hash Table
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
