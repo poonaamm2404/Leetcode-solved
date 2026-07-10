@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0189-rotate-array) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## String
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0035-search-insert-position) |
+| [0189-rotate-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0896-monotonic-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0896-monotonic-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
