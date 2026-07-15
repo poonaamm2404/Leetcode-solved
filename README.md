@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -59,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0189-rotate-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
