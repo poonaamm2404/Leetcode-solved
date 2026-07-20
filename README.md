@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0896-monotonic-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0896-monotonic-array) |
+| [1260-shift-2d-grid](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0043-multiply-strings) |
+| [1260-shift-2d-grid](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
