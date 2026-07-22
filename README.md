@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0027-remove-element) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0189-rotate-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0021-merge-two-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0203-remove-linked-list-elements](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
