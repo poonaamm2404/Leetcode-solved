@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Prefix Sum
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0035-search-insert-position) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -162,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
