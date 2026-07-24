@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0643-maximum-average-subarray-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0682-baseball-game) |
 | [0896-monotonic-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1331-rank-transform-of-an-array) |
@@ -136,12 +137,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0043-multiply-strings) |
+| [0682-baseball-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
