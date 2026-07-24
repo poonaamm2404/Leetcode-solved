@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -178,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
