@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2073-time-needed-to-buy-tickets) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0043-multiply-strings) |
 | [0682-baseball-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1260-shift-2d-grid) |
+| [2073-time-needed-to-buy-tickets](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2073-time-needed-to-buy-tickets) |
 | [3174-clear-digits](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3174-clear-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
