@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0155-min-stack) |
+| [0225-implement-stack-using-queues](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -214,5 +216,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0225-implement-stack-using-queues) |
 | [2073-time-needed-to-buy-tickets](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
