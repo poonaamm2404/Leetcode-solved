@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0877-stone-game) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0682-baseball-game) |
+| [0877-stone-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0896-monotonic-array) |
 | [1260-shift-2d-grid](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1331-rank-transform-of-an-array) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [0486-predict-the-winner](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
@@ -242,4 +245,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
