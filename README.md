@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3174-clear-digits](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3174-clear-digits) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2073-time-needed-to-buy-tickets) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Design
 |  |
@@ -304,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
