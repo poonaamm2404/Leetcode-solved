@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0053-maximum-subarray) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1331-rank-transform-of-an-array) |
