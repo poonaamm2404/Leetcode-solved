@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0486-predict-the-winner) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1140-stone-game-ii) |
