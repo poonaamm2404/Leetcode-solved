@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1140-stone-game-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Array
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0682-baseball-game) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1331-rank-transform-of-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
