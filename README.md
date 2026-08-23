@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [0043-multiply-strings](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0043-multiply-strings) |
 | [0205-isomorphic-strings](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
