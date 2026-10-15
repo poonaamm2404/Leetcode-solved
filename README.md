@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0560-subarray-sum-equals-k) |
 | [1331-rank-transform-of-an-array](https://github.com/poonaamm2404/Leetcode-solved/tree/master/1331-rank-transform-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/poonaamm2404/Leetcode-solved/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Design
 |  |
@@ -409,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/poonaamm2404/Leetcode-solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
