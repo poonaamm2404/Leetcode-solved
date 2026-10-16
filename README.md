@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0043-multiply-strings) |
+| [0058-length-of-last-word](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/poonaamm2404/Leetcode-solved/tree/master/0387-first-unique-character-in-a-string) |
